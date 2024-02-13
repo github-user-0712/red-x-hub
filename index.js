@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Message 1","Message 2"];
+const statusMessages = ["Vigilando el chat...","Verificando usuarios...","Atendiendo tickets..."];
 
 
 let currentIndex = 0;
